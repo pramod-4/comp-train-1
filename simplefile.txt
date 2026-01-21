@@ -1,2 +1,3 @@
 This is a simple file text lol
 This is a change made by me , hopefully I get my lappy back soon :)
+This is a change made in sample branch after 1st commit to sample branch
